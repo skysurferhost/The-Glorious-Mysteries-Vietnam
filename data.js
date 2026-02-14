@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-1-c-cha-gisu-sng-li",
-      "name": "1. Đức Chúa Giêsu Sống Lại",
+      "name": "1. Đức Chúa Giê-su Sống Lại",
       "levels": [
         {
           "tileSize": 256,
@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-cha-gisu-ln-tri",
-      "name": "2. Đức Chúa Giêsu Lên Trời",
+      "name": "2. Đức Chúa Giê-su Lên Trời",
       "levels": [
         {
           "tileSize": 256,
@@ -99,7 +99,7 @@ var APP_DATA = {
         {
           "yaw": 0.7809236815983347,
           "pitch": -0.5434597421898903,
-          "title": "Đức Chúa Giêsu Lên Trời",
+          "title": "Đức Chúa Giê-su Lên Trời",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Lời tựa</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Thưa ngài Thê-ô-phi-lô, trong quyển thứ nhất, tôi đã tường thuật tất cả những việc Đức Giê-su làm và những điều Người dạy, kể từ đầu cho tới ngày Người được rước lên trời. Trước ngày ấy, Người đã dạy bảo các Tông Đồ mà Người đã tuyển chọn nhờ Thánh Thần. Người lại còn dùng nhiều cách để chứng tỏ cho các ông thấy là Người vẫn sống sau khi đã chịu khổ hình: trong bốn mươi ngày, Người đã hiện ra nói chuyện với các ông về Nước Thiên Chúa. Một hôm, đang khi dùng bữa với các Tông Đồ, Đức Giê-su truyền cho các ông không được rời khỏi Giê-ru-sa-lem, nhưng phải ở lại mà chờ đợi điều Chúa Cha đã hứa, “điều mà anh em đã nghe Thầy nói tới, đó là: ông Gio-an thì làm phép rửa bằng nước, còn anh em thì trong ít ngày nữa sẽ chịu phép rửa trong Thánh Thần”.</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Thăng thiên</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Bấy giờ những người đang tụ họp ở đó hỏi Người rằng: “Thưa Thầy, có phải bây giờ là lúc Thầy khôi phục vương quốc Ít-ra-en không?” Người đáp: “Anh em không cần biết thời giờ và kỳ hạn Chúa Cha đã toàn quyền sắp đặt, nhưng anh em sẽ nhận được sức mạnh của Thánh Thần khi Người ngự xuống trên anh em. Bấy giờ anh em sẽ là chứng nhân của Thầy tại Giê-ru-sa-lem, trong khắp các miền Giu-đê, Sa-ma-ri và cho đến tận cùng trái đất.”</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">Nói xong, Người được cất lên ngay trước mắt các ông, và có đám mây quyện lấy Người, khiến các ông không còn thấy Người nữa. Và đang lúc các ông còn đăm đăm nhìn lên trời phía Người đi, thì bỗng có hai người đàn ông mặc áo trắng đứng bên cạnh và nói: “Hỡi những người Ga-li-lê, sao còn đứng nhìn trời? Đức Giê-su, Đấng vừa lìa bỏ các ông và được rước lên trời, cũng sẽ ngự đến y như các ông đã thấy Người lên trời.”<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 14pt; line-height: 115%;\">(Công Vụ Tông Đồ 1:1-11)</div>"
         }
       ]
